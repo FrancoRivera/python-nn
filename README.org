@@ -1,0 +1,21 @@
+#+title: Readme
+
+NN example implementation
+
+The layout is a 2 hidden layer fully connected NN + an output layer of size 10
+
+This repo contains the pre-trained parameters stored in params/
+
+to run the model:
+Extract the training set (train.csv.zip) into train.csv
+
+then execute:
+
+#+begin_src bash
+python main.py
+#+end_src
+
+It has currently around 85% success rate ( the original had around 84%, big gains)
+
+Inspired by (almost all code):
+[[https://www.kaggle.com/code/wwsalmon/simple-mnist-nn-from-scratch-numpy-no-tf-keras/notebook][Simple MNIST NN from scratch (numpy, no TF/Keras) | Kaggle]]

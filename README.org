@@ -19,3 +19,6 @@ It has currently around 85% success rate ( the original had around 84%, big gain
 
 Inspired by (almost all code):
 [[https://www.kaggle.com/code/wwsalmon/simple-mnist-nn-from-scratch-numpy-no-tf-keras/notebook][Simple MNIST NN from scratch (numpy, no TF/Keras) | Kaggle]]
+
+
+[[https://paperswithcode.com/task/text-generation][Text Generation | Papers With Code]]
